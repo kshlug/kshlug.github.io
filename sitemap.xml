@@ -43,12 +43,22 @@
   </url>
   
   <url>
+    <loc>https://kshlug.github.io/new/s10-report/</loc>
+    <lastmod>2016-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kshlug.github.io/post/tamshell/</loc>
     <lastmod>2016-08-31T16:32:28+04:30</lastmod>
   </url>
   
   <url>
     <loc>https://kshlug.github.io/session/session19/</loc>
+    <lastmod>1397-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/new/season19report/</loc>
     <lastmod>1397-05-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,11 +98,13 @@
   
   <url>
     <loc>https://kshlug.github.io/tags/lug-sessions/</loc>
+    <lastmod>2016-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kshlug.github.io/new/</loc>
+    <lastmod>2016-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -110,6 +122,7 @@
   
   <url>
     <loc>https://kshlug.github.io/tags/reports/</loc>
+    <lastmod>2016-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -151,15 +164,8 @@
   
   <url>
     <loc>https://kshlug.github.io/tags/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%AC%D9%84%D8%B3%D8%A7%D8%AA/</loc>
+    <lastmod>2016-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kshlug.github.io/new/season19report/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kshlug.github.io/new/s10-report/</loc>
   </url>
   
 </urlset>
