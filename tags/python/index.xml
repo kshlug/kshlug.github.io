@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on  کرمانشاه لاگ</title>
+    <link>https://kshlug.github.io/tags/python/</link>
+    <description>Recent content in Python on  کرمانشاه لاگ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Aug 2017 16:32:28 +0430</lastBuildDate>
+    
+	<atom:link href="https://kshlug.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>تغییر نام فایل ویدئویی و زیرنویس با بسته tvsubs_rename</title>
+      <link>https://kshlug.github.io/post/subrename/</link>
+      <pubDate>Thu, 31 Aug 2017 16:32:28 +0430</pubDate>
+      
+      <guid>https://kshlug.github.io/post/subrename/</guid>
+      <description>Date: 2017-11-24 23:20 title: تغییر نام فایل ویدئویی و زیرنویس با بسته tvsubs_rename tags: linux, python category: linux, python
+امروز میخوام یکی از مشکلاتی رو که مدت ها بود باهاش دست و پنجه نرم میکردم رو باهاتون در میان بگذارم و راه حلی رو که براش پیدا کردم رو هم همینطور!بعد مدت ها گشت و گذار میخواستم با شل اسکریپت یه تلاش کنم واسه حل این مشکل که به علت پاره ای از مشکلات نشد امروز قصد داشتم با پایتون این کار رو شروع کنم و این تغییر نام های آزار دهنده رو حل کنم که به فکرم رسید اول جستجو کنم ببینم همچین کاری انجام شده یا نه که متوجه شدم بله!</description>
+    </item>
+    
+  </channel>
+</rss>
