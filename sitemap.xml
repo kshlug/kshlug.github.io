@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>https://kshlug.github.io/post/subrename/</loc>
-    <lastmod>2017-08-31T16:32:28+04:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kshlug.github.io/post/introduction_hugo/</loc>
     <lastmod>2017-08-31T16:32:28+04:30</lastmod>
   </url>
@@ -77,7 +72,6 @@
   
   <url>
     <loc>https://kshlug.github.io/tags/linux/</loc>
-    <lastmod>2017-08-31T16:32:28+04:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -99,7 +93,6 @@
   
   <url>
     <loc>https://kshlug.github.io/tags/python/</loc>
-    <lastmod>2017-08-31T16:32:28+04:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -127,8 +120,11 @@
   
   <url>
     <loc>https://kshlug.github.io/tags/</loc>
-    <lastmod>2017-08-31T16:32:28+04:30</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/post/subrename/</loc>
   </url>
   
   <url>
