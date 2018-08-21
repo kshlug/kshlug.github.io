@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> کرمانشاه لاگ</title>
+    <link>https://kshlug.github.io/</link>
+    <description>Recent content on  کرمانشاه لاگ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Aug 1396 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kshlug.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>جشن نصب لاگ کرمانشاه(install fest)</title>
+      <link>https://kshlug.github.io/event/event0_voip/</link>
+      <pubDate>Thu, 25 Aug 1396 00:00:00 +0000</pubDate>
+      
+      <guid>https://kshlug.github.io/event/event0_voip/</guid>
+      <description>لاگ کرمانشاه (kshlug) از علاقه مندان به سیستم عامل آزاد گنو لینوکس دعوت به عمل می آورد تا در جشن نصب و سمینار آشنایی با پایتون شرکت نمایند .
+علاقه مندان میتوانند جهت شرکت در گردهمایی پانزدهم لاگ کرمانشاه به همراه لپ تاپ های خود در روز شنبه ۱۳۹۶/۸/۲۵ ساعت پانزده به نشانی سه راه ۲۲ بهمن نبش کوچه امام جمعه آموزشگاه هوشمند رایان حضور به عمل آورند.</description>
+    </item>
+    
+    <item>
+      <title>IRC</title>
+      <link>https://kshlug.github.io/irc/</link>
+      <pubDate>Fri, 08 Dec 2017 15:21:46 +0100</pubDate>
+      
+      <guid>https://kshlug.github.io/irc/</guid>
+      <description>برای ارتباط زنده با دیگر اعضای کرمانشاه لاگ با استفاده از نرم‌افزار مورد علاقه خود به کانال #kshlug بر روی سرور irc.freenode.net متصل شوید.
+در صورتی که تمایل به نصب نرم‌افزار خاصی ندارید، می‌توانید از جعبه زیر با کانال IRC کرمانشاه لاگ ارتباط برقرارکنید .
+توجه داشته باشید که در صورت استفاده از جعبه زیر یا استفاده از نرم‌افزار مورد علاقه خود برای ارتباط به کانال IRC کرمانشاه لاگ یا هر کانال IRC دیگر، IP شما برای دیگران کاربران قابل نمایش خواهد بود</description>
+    </item>
+    
+    <item>
+      <title>معرفی هیوگو</title>
+      <link>https://kshlug.github.io/post/introduction_hugo/</link>
+      <pubDate>Thu, 31 Aug 2017 16:32:28 +0430</pubDate>
+      
+      <guid>https://kshlug.github.io/post/introduction_hugo/</guid>
+      <description>هیوگو چیست؟
+هیوگو یک وبسایت فریم ورک عمومی است. مطابق اصول هیوگو یک استاتیک سایت جنریتور (static site generator ) است. بر خلاف سایر وب سایت ها(اغلب سایت ها) که به طور پویا زمانی که کاربر ریکوست (request) می دهد؛ صفحه را می سازند؛ هیوگو عملیات ساخت را زمانی که خودتان محتوا را ایجاد کردید انجام می دهد. در حقیقت وقتی بازدیدهای یک سایت نسبت به تغییرات آن خیلی بیشتر باشد ؛ هیوگو کاربرد پیدا می کند.</description>
+    </item>
+    
+    <item>
+      <title>درباره کرمانشاه لاگ</title>
+      <link>https://kshlug.github.io/about/about_kshlug/</link>
+      <pubDate>Thu, 31 Aug 2017 15:12:46 +0435</pubDate>
+      
+      <guid>https://kshlug.github.io/about/about_kshlug/</guid>
+      <description>لاگ کرمانشاه یک گروه مستقل متشکل از علاقه مندان به کامپیوتر،گنو/لینوکس و نرم افزارهای آزاد می باشد. بیشتر افراد این گروه ساکن کرمانشاه هستند وعضویت در آن هیچ پروسه خاصی ندارد. هر از چند گاهی جلساتی با عنوان جلسات لاگ تشکیل میشود که در این جلسات هر کسی می تواند شرکت کند و آموخته های خود را در اختیار دیگران قرار دهد. هدف از این جلسات یادگیری تکنولوژی های جدید با محوریت تکنولوژی های آزاد می باشد، همچنین به مسایلی مانند سیستم عامل های آزاد خانواده بی اس دی، نحوه کار کردن با آنها، نصب آنها و هر محتوای آموزشی و حتی فلسفه نرم افزار آزاد می پردازیم.</description>
+    </item>
+    
+    <item>
+      <title>اساسنامه</title>
+      <link>https://kshlug.github.io/about/statute/</link>
+      <pubDate>Wed, 30 Aug 2017 15:12:46 +0433</pubDate>
+      
+      <guid>https://kshlug.github.io/about/statute/</guid>
+      <description>۱. اهداف گروه:
+اهداف گروه‌های کاربری گنو/لینوکس (لاگ) در سرتاسر جهان با توجه به موقعیت جغرافیایی و وضعیت فرهنگی آنها متفاوت است. هیچ راه کار جامع و مشخصی برای برنامه ها و اهداف یک لاگ وجود ندارد، چون گنو/لینوکس و نرم‌افزار آزاد از بوروکراسی و تمرکز گرایی آزاد است. با توجه به این موضوع، اهداف کرمانشاه لاگ به شرح زیر اعلام می گردد:
+فرهنگ سازی و دفاع آموزش گنو/لینوکس پشتیبانی از کاربران گنو/لینوکس کمک به توسعه (برنامه نویسی) نرم افزارهای آزاد  ۱.</description>
+    </item>
+    
+    <item>
+      <title>مرامنامه</title>
+      <link>https://kshlug.github.io/about/creed/</link>
+      <pubDate>Tue, 29 Aug 2017 15:12:46 +0432</pubDate>
+      
+      <guid>https://kshlug.github.io/about/creed/</guid>
+      <description>۰- احترام به همه
+ما به همه افراد جامعه احترام می‌گذاریم و معتقدیم که این احترام بر پایه‌ای محکم استوار است و پابرجاترین و سالم‌ترین عزت نفس، بر پایه احترامی است که مستحق آنیم. ما هیچ‌گونه توهینی را به هیچ یک از افراد جامعه بر اساس نژاد، ملیت، محل تولد، رنگ پوست، زبان، لهجه، فرهنگ، دین، مذهب، معلولیت، جنسیت، گرایش جنسی، وضعیت خانوادگی، وضعیت ظاهری، میزان دانش و حتی سیستم‌عامل مورد استفاده برنمی‌تابیم.</description>
+    </item>
+    
+    <item>
+      <title>لینک های مفید</title>
+      <link>https://kshlug.github.io/about/beneficial_links/</link>
+      <pubDate>Thu, 10 Aug 2017 15:12:46 +0430</pubDate>
+      
+      <guid>https://kshlug.github.io/about/beneficial_links/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>نشست نوزدهم لاگ کرمانشاه</title>
+      <link>https://kshlug.github.io/session/session19/</link>
+      <pubDate>Mon, 29 May 1397 00:00:00 +0000</pubDate>
+      
+      <guid>https://kshlug.github.io/session/session19/</guid>
+      <description>لاگ کرمانشاه (kshlug) از علاقه مندان به سیستم عامل آزاد گنو لینوکس دعوت به عمل می آورد تا در جلسه نوزدهم از جلسات ماهانه لاگ کرمانشاه شرکت نمایند علاقه مندان میتوانند جهت شرکت در گردهمایی بیستم لاگ کرمانشاه به همراه لپ تاپ های خود در روز شنبه ۱۳۹۷/۵/۲۹ ساعت پانزده به نشانی موسسه آموزش عالی جهاد دانشگاهی سالن علامه طباطبایی حضور به عمل آورند.  برای هماهنگی با آفش و حمید صیدی در پیامرسان تلگرام در تماس باشید.</description>
+    </item>
+    
+    <item>
+      <title>جلسه ی ‍۱۸</title>
+      <link>https://kshlug.github.io/session/session18/</link>
+      <pubDate>Thu, 13 Apr 1397 00:00:00 +0000</pubDate>
+      
+      <guid>https://kshlug.github.io/session/session18/</guid>
+      <description>توضیحات نشست:
+در این جلسه به ادامه دروس دوره LE میپردازیم به همراه نصب یک توزیع معقول! کارگاه گیت و گیت لب داریم :) پروژه آزاد bus map رو رونمایی میکنیم+معرفی و توسعه OSM ویدئو های آموزشی bash script ، lpic ، python و &amp;hellip; رایگان اهدا میشه :)
+و گپ گیکی و پذیرایی!!!</description>
+    </item>
+    
+    <item>
+      <title>گزارش جلسه 19 از لاگ کرمانشاه</title>
+      <link>https://kshlug.github.io/new/season19report/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kshlug.github.io/new/season19report/</guid>
+      <description>جلسه نوزدهم لاگ کرمانشاه راس ساعت مقرر در محل مربوطه در جهاد دانشگاهی برگزار شد.جلسه با توضیحات آفش در خصوص فعالیت های اخیر لاگ کرمانشاه و برنامه های آتی لاگ شروع شد و دوستانی که تازه به ما اضافه شده بودند به معرفی خود پرداختند.در ادامه در خصوص نحوه اطلاع رسانی و فعالیت لاگ در شبکه های اجتماعی و سایت لاگ به بحث و تبادل نظر پرداختیم. حمید صیدی ارائه ای کوتاه در خصوص manual pages داشت و ساعت ۱۶:۳۰ دقیقه جلسه به پایان رسید.</description>
+    </item>
+    
+  </channel>
+</rss>

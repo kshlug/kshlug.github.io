@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on  کرمانشاه لاگ</title>
+    <link>https://kshlug.github.io/about/</link>
+    <description>Recent content in Abouts on  کرمانشاه لاگ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Aug 2017 15:12:46 +0435</lastBuildDate>
+    
+	<atom:link href="https://kshlug.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>درباره کرمانشاه لاگ</title>
+      <link>https://kshlug.github.io/about/about_kshlug/</link>
+      <pubDate>Thu, 31 Aug 2017 15:12:46 +0435</pubDate>
+      
+      <guid>https://kshlug.github.io/about/about_kshlug/</guid>
+      <description>لاگ کرمانشاه یک گروه مستقل متشکل از علاقه مندان به کامپیوتر،گنو/لینوکس و نرم افزارهای آزاد می باشد. بیشتر افراد این گروه ساکن کرمانشاه هستند وعضویت در آن هیچ پروسه خاصی ندارد. هر از چند گاهی جلساتی با عنوان جلسات لاگ تشکیل میشود که در این جلسات هر کسی می تواند شرکت کند و آموخته های خود را در اختیار دیگران قرار دهد. هدف از این جلسات یادگیری تکنولوژی های جدید با محوریت تکنولوژی های آزاد می باشد، همچنین به مسایلی مانند سیستم عامل های آزاد خانواده بی اس دی، نحوه کار کردن با آنها، نصب آنها و هر محتوای آموزشی و حتی فلسفه نرم افزار آزاد می پردازیم.</description>
+    </item>
+    
+    <item>
+      <title>اساسنامه</title>
+      <link>https://kshlug.github.io/about/statute/</link>
+      <pubDate>Wed, 30 Aug 2017 15:12:46 +0433</pubDate>
+      
+      <guid>https://kshlug.github.io/about/statute/</guid>
+      <description>۱. اهداف گروه:
+اهداف گروه‌های کاربری گنو/لینوکس (لاگ) در سرتاسر جهان با توجه به موقعیت جغرافیایی و وضعیت فرهنگی آنها متفاوت است. هیچ راه کار جامع و مشخصی برای برنامه ها و اهداف یک لاگ وجود ندارد، چون گنو/لینوکس و نرم‌افزار آزاد از بوروکراسی و تمرکز گرایی آزاد است. با توجه به این موضوع، اهداف کرمانشاه لاگ به شرح زیر اعلام می گردد:
+فرهنگ سازی و دفاع آموزش گنو/لینوکس پشتیبانی از کاربران گنو/لینوکس کمک به توسعه (برنامه نویسی) نرم افزارهای آزاد  ۱.</description>
+    </item>
+    
+    <item>
+      <title>مرامنامه</title>
+      <link>https://kshlug.github.io/about/creed/</link>
+      <pubDate>Tue, 29 Aug 2017 15:12:46 +0432</pubDate>
+      
+      <guid>https://kshlug.github.io/about/creed/</guid>
+      <description>۰- احترام به همه
+ما به همه افراد جامعه احترام می‌گذاریم و معتقدیم که این احترام بر پایه‌ای محکم استوار است و پابرجاترین و سالم‌ترین عزت نفس، بر پایه احترامی است که مستحق آنیم. ما هیچ‌گونه توهینی را به هیچ یک از افراد جامعه بر اساس نژاد، ملیت، محل تولد، رنگ پوست، زبان، لهجه، فرهنگ، دین، مذهب، معلولیت، جنسیت، گرایش جنسی، وضعیت خانوادگی، وضعیت ظاهری، میزان دانش و حتی سیستم‌عامل مورد استفاده برنمی‌تابیم.</description>
+    </item>
+    
+    <item>
+      <title>لینک های مفید</title>
+      <link>https://kshlug.github.io/about/beneficial_links/</link>
+      <pubDate>Thu, 10 Aug 2017 15:12:46 +0430</pubDate>
+      
+      <guid>https://kshlug.github.io/about/beneficial_links/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

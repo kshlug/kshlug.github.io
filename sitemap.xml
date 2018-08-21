@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://kshlug.github.io/event/event0_voip/</loc>
+    <lastmod>1396-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/irc/</loc>
+    <lastmod>2017-12-08T15:21:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/post/introduction_hugo/</loc>
+    <lastmod>2017-08-31T16:32:28+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/about/about_kshlug/</loc>
+    <lastmod>2017-08-31T15:12:46+04:35</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/about/statute/</loc>
+    <lastmod>2017-08-30T15:12:46+04:33</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/about/creed/</loc>
+    <lastmod>2017-08-29T15:12:46+04:32</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/about/beneficial_links/</loc>
+    <lastmod>2017-08-10T15:12:46+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/session/session19/</loc>
+    <lastmod>1397-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/session/session18/</loc>
+    <lastmod>1397-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/</loc>
+    <lastmod>1396-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/about/</loc>
+    <lastmod>2017-08-31T15:12:46+04:35</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/event/</loc>
+    <lastmod>1396-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/tags/lug-sessions/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/new/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/post/</loc>
+    <lastmod>2017-08-31T16:32:28+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/tags/reports/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/session/</loc>
+    <lastmod>1397-05-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/categories/sessions/</loc>
+    <lastmod>1397-05-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/tags/%D9%87%D9%88%DA%AF%D9%88/</loc>
+    <lastmod>2017-08-31T16:32:28+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/tags/%D9%87%DB%8C%D9%88%DA%AF%D9%88/</loc>
+    <lastmod>2017-08-31T16:32:28+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/tags/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%AC%D9%84%D8%B3%D8%A7%D8%AA/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/new/season19report/</loc>
+  </url>
+  
+</urlset>

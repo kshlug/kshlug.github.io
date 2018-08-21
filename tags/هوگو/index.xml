@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>هوگو on  کرمانشاه لاگ</title>
+    <link>https://kshlug.github.io/tags/%D9%87%D9%88%DA%AF%D9%88/</link>
+    <description>Recent content in هوگو on  کرمانشاه لاگ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Aug 2017 16:32:28 +0430</lastBuildDate>
+    
+	<atom:link href="https://kshlug.github.io/tags/%D9%87%D9%88%DA%AF%D9%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>معرفی هیوگو</title>
+      <link>https://kshlug.github.io/post/introduction_hugo/</link>
+      <pubDate>Thu, 31 Aug 2017 16:32:28 +0430</pubDate>
+      
+      <guid>https://kshlug.github.io/post/introduction_hugo/</guid>
+      <description>هیوگو چیست؟
+هیوگو یک وبسایت فریم ورک عمومی است. مطابق اصول هیوگو یک استاتیک سایت جنریتور (static site generator ) است. بر خلاف سایر وب سایت ها(اغلب سایت ها) که به طور پویا زمانی که کاربر ریکوست (request) می دهد؛ صفحه را می سازند؛ هیوگو عملیات ساخت را زمانی که خودتان محتوا را ایجاد کردید انجام می دهد. در حقیقت وقتی بازدیدهای یک سایت نسبت به تغییرات آن خیلی بیشتر باشد ؛ هیوگو کاربرد پیدا می کند.</description>
+    </item>
+    
+  </channel>
+</rss>
