@@ -38,6 +38,16 @@
   </url>
   
   <url>
+    <loc>https://kshlug.github.io/post/subrename/</loc>
+    <lastmod>2017-07-31T16:32:28+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/post/tamshell/</loc>
+    <lastmod>2016-08-31T16:32:28+04:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kshlug.github.io/session/session19/</loc>
     <lastmod>1397-05-29T00:00:00+00:00</lastmod>
   </url>
@@ -72,6 +82,7 @@
   
   <url>
     <loc>https://kshlug.github.io/tags/linux/</loc>
+    <lastmod>2017-07-31T16:32:28+04:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -93,6 +104,7 @@
   
   <url>
     <loc>https://kshlug.github.io/tags/python/</loc>
+    <lastmod>2017-07-31T16:32:28+04:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -115,16 +127,14 @@
   
   <url>
     <loc>https://kshlug.github.io/tags/shell-script/</loc>
+    <lastmod>2016-08-31T16:32:28+04:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kshlug.github.io/tags/</loc>
+    <lastmod>2017-07-31T16:32:28+04:30</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kshlug.github.io/post/subrename/</loc>
   </url>
   
   <url>
@@ -137,10 +147,6 @@
     <loc>https://kshlug.github.io/tags/%D9%87%DB%8C%D9%88%DA%AF%D9%88/</loc>
     <lastmod>2017-08-31T16:32:28+04:30</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kshlug.github.io/post/tamshell/</loc>
   </url>
   
   <url>
