@@ -22,6 +22,26 @@
     </item>
     
     <item>
+      <title>نشست نوزدهم لاگ کرمانشاه</title>
+      <link>https://kshlug.github.io/session/session19/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kshlug.github.io/session/session19/</guid>
+      <description>لاگ کرمانشاه (kshlug) از علاقه مندان به سیستم عامل آزاد گنو لینوکس دعوت به عمل می آورد تا در جلسه نوزدهم از جلسات ماهانه لاگ کرمانشاه شرکت نمایند علاقه مندان میتوانند جهت شرکت در گردهمایی بیستم لاگ کرمانشاه به همراه لپ تاپ های خود در روز شنبه ۱۳۹۷/۵/۲۹ ساعت پانزده به نشانی موسسه آموزش عالی جهاد دانشگاهی سالن علامه طباطبایی حضور به عمل آورند.  برای هماهنگی با آفش و حمید صیدی در پیامرسان تلگرام در تماس باشید.</description>
+    </item>
+    
+    <item>
+      <title>جلسه ی ‍۱۸</title>
+      <link>https://kshlug.github.io/session/session18/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kshlug.github.io/session/session18/</guid>
+      <description>توضیحات نشست:
+در این جلسه به ادامه دروس دوره LE میپردازیم به همراه نصب یک توزیع معقول! کارگاه گیت و گیت لب داریم :) پروژه آزاد bus map رو رونمایی میکنیم+معرفی و توسعه OSM ویدئو های آموزشی bash script ، lpic ، python و &amp;hellip; رایگان اهدا میشه :)
+و گپ گیکی و پذیرایی!!!</description>
+    </item>
+    
+    <item>
       <title>IRC</title>
       <link>https://kshlug.github.io/irc/</link>
       <pubDate>Fri, 08 Dec 2017 15:21:46 +0100</pubDate>
@@ -110,32 +130,12 @@
     </item>
     
     <item>
-      <title>نشست نوزدهم لاگ کرمانشاه</title>
-      <link>https://kshlug.github.io/session/session19/</link>
-      <pubDate>Mon, 29 May 1397 00:00:00 +0000</pubDate>
-      
-      <guid>https://kshlug.github.io/session/session19/</guid>
-      <description>لاگ کرمانشاه (kshlug) از علاقه مندان به سیستم عامل آزاد گنو لینوکس دعوت به عمل می آورد تا در جلسه نوزدهم از جلسات ماهانه لاگ کرمانشاه شرکت نمایند علاقه مندان میتوانند جهت شرکت در گردهمایی بیستم لاگ کرمانشاه به همراه لپ تاپ های خود در روز شنبه ۱۳۹۷/۵/۲۹ ساعت پانزده به نشانی موسسه آموزش عالی جهاد دانشگاهی سالن علامه طباطبایی حضور به عمل آورند.  برای هماهنگی با آفش و حمید صیدی در پیامرسان تلگرام در تماس باشید.</description>
-    </item>
-    
-    <item>
       <title>گزارش جلسه 19 از لاگ کرمانشاه</title>
       <link>https://kshlug.github.io/new/season19report/</link>
       <pubDate>Mon, 29 May 1397 00:00:00 +0000</pubDate>
       
       <guid>https://kshlug.github.io/new/season19report/</guid>
       <description>جلسه نوزدهم لاگ کرمانشاه راس ساعت مقرر در محل مربوطه در جهاد دانشگاهی برگزار شد.جلسه با توضیحات آفش در خصوص فعالیت های اخیر لاگ کرمانشاه و برنامه های آتی لاگ شروع شد و دوستانی که تازه به ما اضافه شده بودند به معرفی خود پرداختند.در ادامه در خصوص نحوه اطلاع رسانی و فعالیت لاگ در شبکه های اجتماعی و سایت لاگ به بحث و تبادل نظر پرداختیم. حمید صیدی ارائه ای کوتاه در خصوص manual pages داشت و ساعت ۱۶:۳۰ دقیقه جلسه به پایان رسید.</description>
-    </item>
-    
-    <item>
-      <title>جلسه ی ‍۱۸</title>
-      <link>https://kshlug.github.io/session/session18/</link>
-      <pubDate>Thu, 13 Apr 1397 00:00:00 +0000</pubDate>
-      
-      <guid>https://kshlug.github.io/session/session18/</guid>
-      <description>توضیحات نشست:
-در این جلسه به ادامه دروس دوره LE میپردازیم به همراه نصب یک توزیع معقول! کارگاه گیت و گیت لب داریم :) پروژه آزاد bus map رو رونمایی میکنیم+معرفی و توسعه OSM ویدئو های آموزشی bash script ، lpic ، python و &amp;hellip; رایگان اهدا میشه :)
-و گپ گیکی و پذیرایی!!!</description>
     </item>
     
   </channel>
