@@ -14,8 +14,8 @@ install:
     - rm -rf public 2> /dev/null
 
 script:
-    - hugo
-    - echo 'axdlog.com' > public/CNAME
+    - hugo --theme minimal
+    - echo 'kshlug.ir' > public/CNAME
 
 deploy:
   provider: pages
