@@ -3,8 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kshlug.github.io/event/event0_voip/</loc>
-    <lastmod>1396-08-25T00:00:00+00:00</lastmod>
+    <loc>https://kshlug.github.io/event/event0_installfest/</loc>
+    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -15,6 +15,11 @@
   <url>
     <loc>https://kshlug.github.io/session/session18/</loc>
     <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kshlug.github.io/new/season19report/</loc>
+    <lastmod>2018-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -63,13 +68,8 @@
   </url>
   
   <url>
-    <loc>https://kshlug.github.io/new/season19report/</loc>
-    <lastmod>1397-05-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kshlug.github.io/</loc>
-    <lastmod>1396-08-25T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -86,7 +86,7 @@
   
   <url>
     <loc>https://kshlug.github.io/event/</loc>
-    <lastmod>1396-08-25T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -98,13 +98,13 @@
   
   <url>
     <loc>https://kshlug.github.io/tags/lug-sessions/</loc>
-    <lastmod>2016-11-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kshlug.github.io/new/</loc>
-    <lastmod>2016-11-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -122,7 +122,7 @@
   
   <url>
     <loc>https://kshlug.github.io/tags/reports/</loc>
-    <lastmod>2016-11-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -164,7 +164,7 @@
   
   <url>
     <loc>https://kshlug.github.io/tags/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%AC%D9%84%D8%B3%D8%A7%D8%AA/</loc>
-    <lastmod>2016-11-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
