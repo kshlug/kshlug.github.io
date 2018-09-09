@@ -24,6 +24,8 @@ deploy:
   verbose: true
   keep-history: true
   local-dir: public
+  fqdn: kshlug.ir
+  repo: herotux/kshlug.github.io
   target_branch: master  # branch contains blog content
   on:
-    branch: code  # branch contains Hugo generator code
+    branch: master  # branch contains Hugo generator code
