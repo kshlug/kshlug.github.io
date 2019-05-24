@@ -6,10 +6,19 @@
     <description>Recent content in Sessions on  کرمانشاه لاگ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kshlug.github.io/categories/sessions/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>نشست بیست‌ و یکم لاگ کرمانشاه</title>
+      <link>https://kshlug.github.io/session/session21/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kshlug.github.io/session/session21/</guid>
+      <description>لاگ کرمانشاه (kshlug) از علاقه مندان به سیستم عامل آزاد گنو لینوکس دعوت به عمل می آورد تا در جلسه بیست‌ و یکم از جلسات ماهانه لاگ کرمانشاه شرکت نمایند علاقه مندان میتوانند جهت شرکت در گردهمایی بیستم لاگ کرمانشاه به همراه لپ تاپ های خود(الزامی نیست) در روز سه شنبه ۱۳۹۸/۲/۳۱ ساعت شانزده به نشانی کرمانشاه میدان مصدق، کوچۀ جنب پاساژ ارگ، ساختمان بارانیان۲، طبقۀ سوم، شرکت KRP حضور به عمل آورند.</description>
+    </item>
     
     <item>
       <title>نشست بیستم لاگ کرمانشاه</title>
